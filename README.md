@@ -1,4 +1,4 @@
-## JavaPracticals
+### JavaPracticals
 Set of codes discussed in classroom and in FDS manual in my college (NMIET).
 1) Aims in helping my college professors about my progress and sync with taught java codes.
 2) Friends and professors may seek into solutions or suggest better ones, collaborative work.
